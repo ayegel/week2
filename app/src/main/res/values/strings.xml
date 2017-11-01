@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week2</string>
+    <string name="button1">To Inches</string>
+    <string name="button2">To Feet</string>
+    <string name="button3">To Miles</string>
+    <string name="button4">Clear All</string>
+</resources>
